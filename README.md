@@ -37,3 +37,5 @@
 - flyctl tokens create deploy
 
 - push all codes the github
+
+#### Reference - https://medium.com/@devopslesson/build-a-full-ci-cd-pipeline-for-a-node-js-app-from-zero-to-auto-deploy-in-one-hour-fc5a387ec75c
